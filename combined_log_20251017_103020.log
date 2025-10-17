@@ -1,0 +1,30 @@
+Test 1 - URL: https://localhost/secure/, Expected Status: 200, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 2 - URL: https://localhost/secure/, Expected Status: 200, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 3 - URL: https://localhost/secure/, Expected Status: 200, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 4 - URL: https://localhost/secure/, Expected Status: 200, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 5 - URL: https://localhost/secure/, Expected Status: 200, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 1 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 2 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 3 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 4 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 5 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 1 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 2 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 3 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 4 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.
+Test 5 - URL: https://localhost/secure/, Expected Status: 401, Received Status: 000
+TEST ERROR - Authentication failed.

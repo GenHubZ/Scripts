@@ -1,0 +1,6 @@
+Testing URL: https://localhost/secure/, Expected Code: 401, Received Code: 000
+TEST ERROR - Authentication failed.
+Testing URL: https://localhost/secure/, Expected Code: 200, Received Code: 000
+TEST ERROR - Authentication failed.
+Testing URL: https://localhost/secure/, Expected Code: 401, Received Code: 000
+TEST ERROR - Authentication failed.
